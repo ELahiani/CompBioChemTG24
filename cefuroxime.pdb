@@ -1,0 +1,60 @@
+CRYST1   49.383   68.102   75.652  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  N   DXF A   1     -10.010 -12.180   3.344  1.00 18.33           N  
+HETATM    2  CA  DXF A   1     -10.309 -11.889   4.716  1.00 16.93           C  
+HETATM    3  CAA DXF A   1     -10.400 -16.828   1.299  1.00 31.34           C  
+HETATM    4  CAI DXF A   1      -9.100 -11.430  -1.330  1.00 26.80           C  
+HETATM    5  CAJ DXF A   1      -8.467 -10.788  -0.348  1.00 26.86           C  
+HETATM    6  CAK DXF A   1      -9.564 -12.599  -0.876  1.00 26.52           C  
+HETATM    7  CAL DXF A   1      -8.451  -7.160   2.529  1.00 24.46           C  
+HETATM    8  CAM DXF A   1      -7.716  -9.710   3.051  1.00 19.76           C  
+HETATM    9  CAU DXF A   1      -7.735  -5.525   1.071  1.00 31.32           C  
+HETATM   10  CAV DXF A   1     -10.485  -7.254   4.545  1.00 19.49           C  
+HETATM   11  CAW DXF A   1      -9.594 -13.338   2.948  1.00 19.54           C  
+HETATM   12  CAX DXF A   1      -8.597  -8.482   3.346  1.00 20.69           C  
+HETATM   13  CAY DXF A   1      -9.505 -13.754   1.428  1.00 22.59           C  
+HETATM   14  CAZ DXF A   1      -9.610  -8.480   4.317  1.00 19.55           C  
+HETATM   15  C   DXF A   1     -11.521 -11.366   5.149  1.00 16.47           C  
+HETATM   16  O   DXF A   1     -12.357 -10.624   4.272  1.00 15.54           O  
+HETATM   17  NAB DXF A   1      -7.781  -4.504   1.941  1.00 31.00           N  
+HETATM   18  NAN DXF A   1      -9.200 -14.922   0.860  1.00 27.67           N  
+HETATM   19  NAP DXF A   1      -9.913  -9.508   5.114  1.00 16.91           N  
+HETATM   20  OAD DXF A   1      -7.829  -5.316  -0.144  1.00 32.14           O  
+HETATM   21  OAE DXF A   1     -11.094  -7.143   5.607  1.00 21.69           O  
+HETATM   22  OAF DXF A   1      -9.357 -14.162   3.961  1.00 18.74           O  
+HETATM   23  OAG DXF A   1     -10.583  -6.413   3.702  1.00 20.90           O  
+HETATM   24  OAQ DXF A   1      -9.238 -16.049   1.637  1.00 31.16           O  
+HETATM   25  OAR DXF A   1      -7.574  -6.841   1.521  1.00 29.69           O  
+HETATM   26  OAS DXF A   1      -8.544 -11.573   0.764  1.00 26.22           O  
+HETATM   27  SAT DXF A   1      -7.659 -10.951   4.426  1.00 14.64           S  
+HETATM   28  CB  DXF A   1      -9.304 -10.837   5.178  1.00 17.05           C  
+HETATM   29  CBA DXF A   1      -9.261 -12.674   0.413  1.00 24.99           C  
+CONECT    1    2   11
+CONECT    2    1   28   15
+CONECT    3   24
+CONECT    4    5    6
+CONECT    5    4   26
+CONECT    6    4   29
+CONECT    7   12   25
+CONECT    8   12   27
+CONECT    9   17   20   25
+CONECT   10   14   21   23
+CONECT   11    1   13   22
+CONECT   12    7    8   14
+CONECT   13   11   29   18
+CONECT   14   10   12   19
+CONECT   15    2   16
+CONECT   16   15
+CONECT   17    9
+CONECT   18   13   24
+CONECT   19   14   28
+CONECT   20    9
+CONECT   21   10
+CONECT   22   11
+CONECT   23   10
+CONECT   24    3   18
+CONECT   25    7    9
+CONECT   26    5   29
+CONECT   27    8   28
+CONECT   28    2   19   27
+CONECT   29    6   13   26
+END
